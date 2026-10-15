@@ -65,8 +65,8 @@
             "address": "https://anisette.crystall1ne.dev"
         },
         {
-            "name": "ethxn's omnisette server :3",
-            "address": "https://omni.ethxn.xyz"
+            "name": "local server",
+            "address": "100.85.178.77:6969"
         }
     ]
 }
